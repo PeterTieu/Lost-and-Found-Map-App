@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lost and Found Map App</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_main_activity">Lost and Found Map App</string>
+</resources>
